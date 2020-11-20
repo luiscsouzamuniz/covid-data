@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "keywords": [],
+  "repository": "https://github.com/luiscsmuniz/covid-data.git",
+  "homepage": "http://valandil.000webhostapp.com/covid-data",
+  "license": "MIT",
   "main": "src/index.js",
   "dependencies": {
     "apexcharts": "3.19.3",
